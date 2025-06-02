@@ -10,4 +10,30 @@ Epidemiologists and social scientists have used the Network Scale-Up Method (NSU
 
 Real networks can be downloaded from [Standford Large Network Dataset Collection](https://snap.stanford.edu/data/). Specifically we use [Graph Embedding with Self Clustering: Deezer, February 13 2018](https://snap.stanford.edu/data/gemsec-Deezer.html).
 
-[![DOI](https://zenodo.org/badge/994663840.svg)](https://doi.org/10.5281/zenodo.15575414)
+[![DOI](https://zenodo.org/badge/994663840.svg)](https://doi.org/10.5281/zenodo.15575415)
+
+## Platform
+
+The code has been executed in a Linux environment, specifically on the Ubuntu 24.04 Operating System.
+
+## Acknowledgments
+
+This paper has been funded by project PID2022-140560OB-I00 (DRONAC) funded by MICIU/AEI /10.13039/501100011033 and ERDF, EU. This research is part of the I+D+i projects PID2022-137243OB-I00 funded by MCIN/AEI/10.13039/501100011033 and European Union NextGenerationEU/PRTR and the project CuidaNSUM of the Instituto de las Mujeres. This initiative has also been partially carried out within the framework of the Recovery, Transformation and Resilience Plan funds, financed by the European Union (Next Generation) through the grant ANTICIPA (INCIBE) and the ENIA 2022 Chairs for the creation of university-industry chairs in AI-AImpulsa: UC3M-Universia. The work of Sergio Díaz-Aranda has been funded by \textit{Comunidad de Madrid} predoctoral grant PIPF-2022/COM-24467.
+
+## License
+
+This code package is licensed under the GNU GENERAL PUBLIC LICENSE (version 3) - see the [LICENSE](LICENSE) file for details
+
+
+## Author
+
+Juan Marcos Ramírez Rondón. Postdoctoral Researcher. [IMDEA Networks Institute](https://networks.imdea.org/es/). Leganés, 28918, Spain. 
+
+
+### Contact
+
+[Juan Marcos Ramirez](juan.ramirez@imdea.org)
+
+## Date
+
+June 2nd, 2025
