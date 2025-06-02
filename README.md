@@ -1,6 +1,6 @@
 # Error Bounds for the Network Scale-Up Method
 
-[Sergio Díaz-Aranda](https://networks.imdea.org/team/imdea-networks-team/people/sergio-diaz-aranda/), [Juan Marcos Ramirez](https://juanmarcosramirez.github.io/), [Mohit Daga](https://www.kth.se/profile/mdaga), [Jaya Prakash Champati](https://www.uvic.ca/ecs/computerscience/people/faculty/profiles/champati-jaya.php), [Jose Aguilar](https://networks.imdea.org/team/imdea-networks-team/people/jose-aguilar/), [Rosa Lillo](https://halweb.uc3m.es/esp/Personal/personas/rlillo/research.html), [Antonio Fernández-Anta].
+[Sergio Díaz-Aranda](https://networks.imdea.org/team/imdea-networks-team/people/sergio-diaz-aranda/), [Juan Marcos Ramirez](https://juanmarcosramirez.github.io/), [Mohit Daga](https://www.kth.se/profile/mdaga), [Jaya Prakash Champati](https://www.uvic.ca/ecs/computerscience/people/faculty/profiles/champati-jaya.php), [Jose Aguilar](https://networks.imdea.org/team/imdea-networks-team/people/jose-aguilar/), [Rosa Lillo](https://halweb.uc3m.es/esp/Personal/personas/rlillo/research.html), [Antonio Fernández-Anta](https://software.imdea.org/es/people/antonio.fernandez/).
 
 ## Abstract
 
