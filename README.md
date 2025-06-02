@@ -10,4 +10,4 @@ Epidemiologists and social scientists have used the Network Scale-Up Method (NSU
 
 Real networks can be downloaded from [Standford Large Network Dataset Collection](https://snap.stanford.edu/data/). Specifically we use [Graph Embedding with Self Clustering: Deezer, February 13 2018](https://snap.stanford.edu/data/gemsec-Deezer.html).
 
-
+[![DOI](https://zenodo.org/badge/994663840.svg)](https://doi.org/10.5281/zenodo.15575414)
