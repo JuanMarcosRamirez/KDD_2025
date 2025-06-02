@@ -12,6 +12,21 @@ Real networks can be downloaded from [Standford Large Network Dataset Collection
 
 [![DOI](https://zenodo.org/badge/994663840.svg)](https://doi.org/10.5281/zenodo.15575415)
 
+
+## Bibtex
+
+```
+@misc{díazaranda2024errorboundsnetworkscaleup,
+      title={Error Bounds for the Network Scale-Up Method}, 
+      author={Sergio Díaz-Aranda and Juan Marcos Ramírez and Mohit Daga and Jaya Prakash Champati and José Aguilar and Rosa Elvira Lillo and Antonio Fernández Anta},
+      year={2024},
+      eprint={2407.10640},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2407.10640}, 
+}
+```
+
 ## Platform
 
 The code has been executed in a Linux environment, specifically on the Ubuntu 24.04 Operating System.
